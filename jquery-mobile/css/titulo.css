@@ -1,0 +1,44 @@
+@charset "utf-8";
+.titulo1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 60px;
+	font-style: normal;
+	font-weight: bolder;
+	color: #936242;
+}
+
+.titulo6 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: bolder;
+	color: #936242;
+	text-align: center;
+	background-color: #000;
+}
+ 
+
+.fondo {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #05057A;
+	background-image: url(../images/unnamed.jpg);
+	background-repeat: repeat;
+	
+}
+.fondoprin {
+	font-family: Verdana, Geneva, sans-serif;
+	color: white; text-shadow: white 0.2em 0.15em 0.15em;
+	background-image: url(../images/unnamed.jpg);
+	font-size: 16px;
+	background-repeat: repeat;
+}
+.formi{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 26px;
+	color: white; text-shadow: black 0.1em 0.1em 0.2em;
+	background-image: url(file:///C|/xampp/sitios%20web/jquery-mobile/images/tumblr_nhty98dfyX1u1ywr0o1_1280.jpg);
+	background-repeat: repeat;
+	text-align: justify;
+	font-style: normal;
+	font-weight: bolder;
+	}
